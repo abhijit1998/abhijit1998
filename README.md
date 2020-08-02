@@ -8,6 +8,8 @@
     <br>I am an IT Engineering Student
     <br>
     <img src="https://raw.githubusercontent.com/ProjectSakura/ProjectSakura.github.io/master/loading.gif" width="150px" height="150px" align="center">
+    <br><br>:pizza: Take a look at my stats :P<br><br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijit1998&&show_icons=true&&theme=tokyonight" />
   </samp>
 </p>
 
